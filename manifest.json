@@ -1,0 +1,21 @@
+{
+  "name": "Quad Box",
+  "short_name": "Quad Box",
+  "icons": [
+    {
+      "src": "assets/icons/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#262626",
+  "theme_color": "#121212",
+  "scope": "."
+}
